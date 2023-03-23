@@ -6,12 +6,14 @@
         <ul> 
             <li><h2>Custom Joystick Classes</h2></li>
             <li>ThrustMaster</li>
+            <li>Custom Arcade Controller</li>
         </ul>
     </li>
     <li>
         <ul>
             <li><h2>Limelight Functionality</h2></li>
             <li>Multi Limelight Support</li>
+            <li>Target creator</li>
             <li>Convenient Getter Methods</li>
         </ul>
     </li>
@@ -19,11 +21,19 @@
         <ul> 
             <li><h2>Utilities</h2></li>
             <li>Value Mapping</li>
+            <li>Setpoint Creator</li>
+            <li>Constraint Creator</li>
         </ul>
     </li>
     <li>
         <ul> 
             <li><h2>NavX</h2></li>
+        </ul>
+    </li>
+    <li>
+        <ul> 
+            <li><h2>DoubleSolenoidGroups</h2></li>
+            <li>Activate with constraints</li>
         </ul>
     </li>
 </ul>
