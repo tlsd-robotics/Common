@@ -6,6 +6,7 @@
         <ul> 
             <li><h2>Custom Joystick Classes</h2></li>
             <li>ThrustMaster</li>
+            <li>Logitech F310 Gamepad</li>
             <li>Custom Arcade Controller</li>
         </ul>
     </li>
